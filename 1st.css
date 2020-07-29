@@ -322,7 +322,7 @@ padding:50px;;
 
 .p1{
 	height:300px;
-	width:1425px;
+	width:1440px;
 }
  .checkbtn{
     display: block;
@@ -385,7 +385,7 @@ color:yellow;
 	margin-top:15px;
 } 
 .part1{
-	width:1426px;
+	width:1435px;
 	height:200px;
 } 
 .part1 h3{
@@ -467,9 +467,11 @@ color:yellow;
 }
 @media screen and (max-width: 380px){
 	ul{
-		width:1430px;
+		width:1425px;
 	}
-
+.p1{
+	width:1425px;
+}
 
 	}
 @media screen and (max-width: 350px){
