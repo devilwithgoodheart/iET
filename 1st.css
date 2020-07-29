@@ -343,7 +343,7 @@ padding:50px;;
   }
   ul{
     position: fixed;
-    width: 1430px;
+    width: 1435px;
     height: 270vh;
     background: black;
     top: 300px;
@@ -467,7 +467,7 @@ color:yellow;
 }
 @media screen and (max-width: 380px){
 	ul{
-		width:1420px;
+		width:1425px;
 	}
 
 
