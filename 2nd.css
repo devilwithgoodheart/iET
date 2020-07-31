@@ -3,14 +3,7 @@ padding:0;
 font-family: Georgia;
 }
 body{
-background-image: url(yp2.png);
-background-size: cover; 
-background-position: center center;
-background-repeat:no-repeat;
-background-attachment:fixed;
-display:block; 
-width:100%;
-
+background:black;
 }
 
 .p1{
