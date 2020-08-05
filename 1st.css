@@ -229,18 +229,21 @@ transition: .3s;
   
     padding: 5px;
  }
-.foot{
-	
-	background-color:black; 
-	padding: 10px; 
-margin-top:1500px ;
-padding-top:10px; 
-}
-.foot h3{
-	text-align: center;
-    margin:5px; 
-	color: white;	 
-}
+.container{
+   width:100%;
+   margin:auto;
+   overflow:hidden;
+ }
+ footer{  
+   color:white;
+   font-size: 14px;
+  
+   }
+ p {
+ 	 padding:5px;
+ 	background-color:black;
+  
+ } 
 @media screen and (max-width: 1130px)
 
 	{
@@ -322,7 +325,7 @@ padding:50px;;
 
 .p1{
 	height:300px;
-	width:1440px;
+	width:1420px;
 }
  .checkbtn{
     display: block;
@@ -343,8 +346,8 @@ padding:50px;;
   }
   ul{
     position: fixed;
-    width: 1440px;
-    height: 270vh;
+    width: 1430px;
+    height: 140vh;
     background: black;
     top: 300px;
     left: -100%;
@@ -385,7 +388,7 @@ color:yellow;
 	margin-top:15px;
 } 
 .part1{
-	width:1435px;
+	width:1426px;
 	height:200px;
 } 
 .part1 h3{
@@ -453,25 +456,31 @@ color:yellow;
 	margin: 20px;
 	font-size:55px;
 }
-.foot{
-	width:1200px;
-	background-color:transparent;
+.container{
+   width:100%;
+   margin:auto;
+   overflow:hidden;
+ }
+ footer{  
+ width:1420px;
 
-}
-.foot h3{
-	font-size:55px;
-	margin-left:200px;
-	padding-top:20px;
-}
+   color:white;
+   font-size: 50px;
+  
+   }
+ p {
+ 	 padding:10px;
+ 	background-color:black;
+  
+ }
+
 
 }
 @media screen and (max-width: 380px){
 	ul{
-		width:1425px;
+		width:1420px;
 	}
-.p1{
-	width:1425px;
-}
+
 
 	}
 @media screen and (max-width: 350px){
