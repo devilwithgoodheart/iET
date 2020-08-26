@@ -181,8 +181,8 @@ margin-right: 180px;
 .yaa{
 	float: right;
 	border:2px solid crimson;
-    width: 45%;
-    height: 33%;
+    width: 50%;
+    height: 40%;
 	padding:20px;
 	margin: 10px;
 	margin-left: 110px; 
@@ -447,7 +447,7 @@ color:yellow;
 	margin-top:300;
 	margin-left:250px;
 	width:900px;
-	height:950px;
+	height:1000px;
 }
 .ya  h1{
 	font-size:90px;
@@ -489,7 +489,7 @@ color:yellow;
 	margin-top:300;
 	margin-left:250px;
 	width:900px;
-	height:700px;
+	height:750px;
 }
 .rb  h1{
 	font-size:90px;
@@ -509,7 +509,7 @@ color:yellow;
 	margin-top:300;
 	margin-left:120px;
 	width:1150px;
-	height:750px;
+	height:950px;
 	float:left;
 	margin-bottom:200px;	
 
